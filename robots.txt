@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makimaki.42web.io/sitemap.xml
